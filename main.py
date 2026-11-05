@@ -1,6 +1,6 @@
 import student
 def loop_1():
-	print("Welcome")
+	print("Welcome to Student management system")
 	studentlist=[]
 	while True:
 		print("Enter -1 to exit")
